@@ -1,0 +1,15 @@
+.list-view .item {
+  display: block;
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}
+
+.grid-view .item {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  text-align: center;
+  vertical-align: top;
+}
